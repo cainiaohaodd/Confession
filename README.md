@@ -5,4 +5,4 @@
 
 This is a form of page, click to show the next sentence, the specific effect is as follows:
 
-![stars](http://honggc.b0.upaiyun.com/blog/starsss.gif)
+![stars](https://github.com/cainiaohaodd/Confession/blob/master/A_little_boy/img/starsss.gif?raw=true)
